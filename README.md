@@ -9,5 +9,6 @@ This is a self screening Covid 19 app and is not meant as a substitute for a med
 
 Screenshots:
 
-<a href="https://imgur.com/kJvPoX4"></a>
-<a href="https://imgur.com/rKe3k7v"></a>
+![Screenshot 1](https://i.imgur.com/kJvPoX4.png)
+![Screenshot 2](https://i.imgur.com/rKe3k7v.png)
+![Screenshot 3](https://i.imgur.com/V4xb8T9.png)
