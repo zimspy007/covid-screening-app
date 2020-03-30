@@ -8,8 +8,8 @@ Or download the app from DropBox here: https://www.dropbox.com/s/9f1ozlxfoo0oav3
 This is a self screening Covid 19 app and is not meant as a substitute for a medical opinion or a medical covid 19 test.
 
 Screenshots:
-https://i.imgur.com/kJvPoX4.png
+<a href="https://imgur.com/kJvPoX4"><img src="https://i.imgur.com/kJvPoX4.png" title="source: imgur.com" /></a>
 
-https://i.imgur.com/rKe3k7v.png
+<a href="https://imgur.com/rKe3k7v"><img src="https://i.imgur.com/rKe3k7v.png" title="source: imgur.com" /></a>
 
-https://i.imgur.com/V4xb8T9.png
+<a href="https://imgur.com/V4xb8T9"><img src="https://i.imgur.com/V4xb8T9.png" title="source: imgur.com" /></a>
